@@ -1,0 +1,6 @@
+{
+  "name": "ReserveEase - Appointment Booking System",
+  "description": "Full-stack appointment booking and reservation system with React, Express, MongoDB, Mongoose, JWT authentication, real-time availability slots, user & admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
